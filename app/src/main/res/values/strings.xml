@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">zadaca1_SDragas</string>
+    <string name="title_activity_sid__meier">sid_Meier</string>
+    <string name="title_activity_todd__howard">todd_Howard</string>
+    <string name="sid_meier">Sid Meier</string>
+    <string name="todd_howard">Todd Howard</string>
+    <string name="john_romero">John Romero</string>
+    <string name="sid_Meier_Quote">Canadian-American programmer, designer, and producer of several strategy video games
+        and simulation video games, including the Civilization series. Meier co-founded MicroProse in 1982 with Bill
+        Stealey and is the Director of Creative Development of Firaxis Games, which he co-founded with Jeff Briggs and
+        Brian Reynolds in 1996. For his contributions to the video game industry, Meier was inducted into the Academy of
+        Interactive Arts and Sciences Hall of Fame.
+    </string>
+    <string name="todd_Howard_Quote">American video game designer, director, and producer. He currently serves as
+        director and executive producer at Bethesda Game Studios, where he has led the development of the Fallout and
+        The Elder Scrolls series. In 2009, GamePro magazine named Howard one of the Top 20 Most Influential People in
+        Gaming over the last 20 years. He was also named one of IGN\'s Top 100 Game Creators of All Time
+    </string>
+    <string name="john_Romero_Quote">American director, designer, programmer, and developer in the video game industry.
+        He is best known as a co-founder of id Software and designer for many of their games, including Wolfenstein 3D,
+        Dangerous Dave, Hexen, Doom, Doom II and Quake. His game designs and development tools, along with new
+        programming techniques created and implemented by id Software\'s lead programmer John D. Carmack, led to a mass
+        popularization of the first-person shooter, or FPS, in the 1990s. He is credited with coining the FPS
+        multiplayer term deathmatch.
+    </string>
+</resources>
